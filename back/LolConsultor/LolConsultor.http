@@ -1,0 +1,6 @@
+@LolConsultor_HostAddress = http://localhost:5199
+
+GET {{LolConsultor_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,6 +1,0 @@
-@consulta_lol_api_HostAddress = http://localhost:5038
-
-GET {{consulta_lol_api_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
